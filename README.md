@@ -7,12 +7,13 @@ A GUI to calculate the number of servings that a circular pizza of a certain dia
 
 It includes the following features:
 
- The frame title must say 'Pizza Servings Calculator'.
- A grid layout will be used for the GUI.
- The JLabel title of the GUI will say 'Pizza Servings Calculator' and be in red and will be placed in  grid slot 1.
- A JLabel of 'Enter the size of the pizza in inches: ' will be placed in grid slot 2 followed by a JTextField where the pizza size will be entered and have a width of 4.
- A JButton will be placed in grid slot 3 and will contain 'Calculate Servings'.
- A JLabel, initially blank, will be placed in grid slot 4.
+* The frame title must say 'Pizza Servings Calculator'.
+* A grid layout will be used for the GUI.
+* The JLabel title of the GUI will say 'Pizza Servings Calculator' and be in red and will be placed in  grid slot 1.
+* A JLabel of 'Enter the size of the pizza in inches: ' will be placed in grid slot 2 followed by a JTextField where the pizza size will be entered and have a width of 4.
+* A JButton will be placed in grid slot 3 and will contain 'Calculate Servings'.
+* A JLabel, initially blank, will be placed in grid slot 4.
+
 To execute the GUI, enter a pizza size in the JTextField and click the Calculate Servings button. The Calculate Servings button handler will then execute and calculate the number of servings and display it as shown in the following image:
 
 ![PizzaServingsCalculatorFinal](https://github.com/zbl5332/PizzaServingsCalculator/blob/bb2561d726924a10645ceffbe683d32e22f98a98/PizzaServingsCalculatorFinal.png)
